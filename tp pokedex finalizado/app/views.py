@@ -4,7 +4,7 @@ from django.shortcuts import redirect, render
 from .layers.services import services
 from django.contrib.auth.decorators import login_required
 from django.contrib.auth import logout
-from app.layers.utilities.card import Card
+
 
 
 
